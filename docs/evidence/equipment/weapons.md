@@ -821,6 +821,40 @@ Aquila's healing effects are affected by incoming and outgoing healing bonuses. 
 
 ---
 
+### Azurelight
+
+#### Azurelight's passive applies to the skill triggering it
+
+**By:** @laylaithink \
+**Added:** <Version date="2026-6-24" /> \
+**Last tested:** <VersionHl date="2025-06-19" /> \
+[Discussion](https://tickets.deeznuts.moe/transcripts/5-7-equipment-basic-mechanics)
+
+**Finding:** First part of Azurelight's passive (ATK% after skill) applies to the skill that triggers it
+
+**Evidence:** https://youtu.be/QTzvCFVlnG0
+- **unbuffed:** `430.6%*1929*(1+46.6%)*(1+145.9%)*49.4%*0.9 = 13299`
+- **adding 24% atk:** `430.6%*2173*(1+46.6%)*(1+145.9%)*49.4%*0.9 = 14981`
+
+**Significance:** weapon mechanics
+
+#### Azurelight's passive is snapshottable
+
+**By:** @astroluxeon \
+**Added:** <Version date="2026-6-24" /> \
+**Last tested:** <VersionHl date="2025-06-19" /> \
+[Discussion](https://tickets.deeznuts.moe/transcripts/5-7-equipment-basic-mechanics)
+
+**Finding:** Azurelight's 0 energy passive is snapshottable
+
+**Evidence:**
+[Snapshotted](https://youtu.be/G1SbUc_VkW8) \
+[Particles caught before snapshot](https://youtu.be/lPMDSuaga90)
+
+**Significance:** Weapon Mechanics
+
+---
+
 ### Ballad of the Boundless Blue
 
 #### Ballad of the Boundless Blue stacks stay when off field
