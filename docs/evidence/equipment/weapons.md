@@ -2039,6 +2039,49 @@ SoSS can stack faster in AoE situations.
 
 ---
 
+### Symphonist of Scents
+
+#### Symphonist buffs all characters that receive heal
+
+**By:** @breadcatow \
+**Added:** <Version date="2026-06-24" /> \
+**Last tested:** <VersionHl date="2025-05-07" /> \
+[Discussion](https://tickets.deeznuts.moe/transcripts/5-6-equipment-basic-mechanics)
+
+**Finding:** Symphonist of Scents buffs all characters that receive heal, not just the active character (expected)
+
+**Evidence:** https://youtu.be/Q6iSScxL7ms
+
+**Significance:** better understanding of weapon buff
+
+#### Symphonist buff does not stack
+
+**By:** @breadcatow \
+**Added:** <Version date="2026-06-24" /> \
+**Last tested:** <VersionHl date="2025-05-07" /> \
+[Discussion](https://tickets.deeznuts.moe/transcripts/5-6-equipment-basic-mechanics)
+
+**Finding:** Symphonist of Scents buff will not stack if multiple characters hold the weapon and trigger its passive.
+
+**Evidence:** https://youtu.be/XsD736K24Xs
+
+**Significance:** Can't run double Symphonist
+
+#### Symphonist buffs on heal attempt
+
+**By:** @breadcatow \
+**Added:** <Version date="2026-06-24" /> \
+**Last tested:** <VersionHl date="2025-05-07" /> \
+[Discussion](https://tickets.deeznuts.moe/transcripts/5-6-equipment-basic-mechanics)
+
+**Finding:** Symphonist of Scents buff will trigger on heal attempt
+
+**Evidence:** https://youtu.be/C_qPkSLB2zI
+
+**Significance:** Weapon can buff Arlecchino and does not require the character receiving healing to lose hp prior to receiving healing
+
+---
+
 ### Talking Stick
 
 #### Talking Stick mechanics
