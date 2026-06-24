@@ -2005,7 +2005,6 @@ $1283 \ \text{(total ATK without SotSS passive)} + 403 \ \text{(EM after diona C
 **Significance:**  
 Pre-stacking SotSS will not give you the full value of the Dream of the Scarlet Sands effect if EM buffs are obtained after the stacks.
 
----  
 
 #### Staff Of The Scarlet Sands Can Gain Multiple Stacks From One Attack  
 
@@ -2022,6 +2021,21 @@ Staff of the Scarlet Sands can gain multiple stacks from one attack if it hits m
   
 **Significance:**  
 SoSS can stack faster in AoE situations.  
+
+---
+
+### Starcaller's Watch
+
+#### Starcaller's Watch Crystallize interaction
+
+**By:** @breadcatow \
+**Added:** <Version date="2026-06-24" /> \
+**Last tested:** <VersionHl date="2025-02-23" /> \
+[Discussion](https://tickets.deeznuts.moe/transcripts/5-3-weapon-basic-mechanics)
+
+**Finding:** Starcaller's Watch triggers upon holder picking up a crystalize shard created by the holder, but does not trigger if the holder picks up a crystalize shard created by another character or if another character picks up a crystalize shard created by the holder.
+
+**Evidence:** https://youtu.be/DzmaivoKKDM
 
 ---
 
