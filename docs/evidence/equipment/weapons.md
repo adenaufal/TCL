@@ -1065,6 +1065,21 @@ Can't keep the buff for the whole duration of a snapshottable Skill.
 
 ---
 
+### Flame-Forged Insight
+
+#### Flame-Forged Insight doesn't proc from teammates
+
+**By:** @jamberry \
+**Added:** <Version date="2026-06-24" /> \
+**Last tested:** <VersionHl date="2025-08-02" /> \
+[Discussion](https://tickets.deeznuts.moe/transcripts/5-8-equipment-basic-mechanics)
+
+**Finding:** Flame-Forged Insight doesn't proc from teammates, has to be holder themself.
+
+**Evidence:** https://youtu.be/eVswI2g_guA?si=dtdEXSg-UVpyZArS
+
+---
+
 ### Hakushin Ring
 
 #### Hakushin Ring can buff the holder.
